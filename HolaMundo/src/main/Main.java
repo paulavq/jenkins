@@ -1,8 +1,3 @@
-/**
- * 
- */
-package main;
-
 
 
 /**
@@ -18,6 +13,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		//new Test().Test01();
+		System.out.println("Hola Mundo");
 	}
 
 }
